@@ -1,5 +1,5 @@
 ---
-tags: [moc, projects]
+tags: [moc, projects, legacy]
 status: active
 created: 2026-09-11
 ---

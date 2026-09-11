@@ -1,5 +1,5 @@
 ---
-tags: [topic, vendor-management, governance]
+tags: [topic, vendor-management, governance, legacy]
 status: active
 created: 2026-09-11
 source: "Knowledge_Base_Fabric_Data_Architecture_Agent.md"

@@ -1,6 +1,6 @@
 ---
 type: project
-tags: [project, fabric, cost-optimization, pov, active]
+tags: [project, fabric, cost-optimization, pov, active, legacy]
 status: active
 start_date: ""
 sprint: ""

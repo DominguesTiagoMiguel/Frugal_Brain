@@ -1,5 +1,5 @@
 ---
-tags: [topic]
+tags: [topic, legacy]
 status: draft
 created: {{date}}
 ---

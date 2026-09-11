@@ -1,5 +1,5 @@
 ---
-tags: [moc, cache]
+tags: [moc, cache, legacy]
 status: active
 created: 2026-09-11
 ---

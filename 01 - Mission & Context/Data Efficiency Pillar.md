@@ -1,5 +1,5 @@
 ---
-tags: [mission, data-efficiency, coe, moc]
+tags: [mission, data-efficiency, coe, moc, legacy]
 status: active
 created: 2026-09-11
 source: "CoE_DAE_Mission_And_DataEfficiencyPillar.pptx"

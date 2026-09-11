@@ -1,9 +1,9 @@
 ---
-tags: [template]
+tags: [template, legacy]
 ---
 ---
 type: decision
-tags: [decision]
+tags: [template, legacy]
 date: <% tp.date.now("YYYY-MM-DD") %>
 project: ""
 status: proposed

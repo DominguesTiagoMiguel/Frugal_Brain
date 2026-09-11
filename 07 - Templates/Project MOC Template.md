@@ -1,9 +1,9 @@
 ---
-tags: [template]
+tags: [template, legacy]
 ---
 ---
 type: project
-tags: [project]
+tags: [template, legacy]
 status: active
 start_date: <% tp.date.now("YYYY-MM-DD") %>
 sprint: ""

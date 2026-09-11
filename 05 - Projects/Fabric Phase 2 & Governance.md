@@ -1,6 +1,6 @@
 ---
 type: project
-tags: [project, fabric, governance, active]
+tags: [project, fabric, governance, active, legacy]
 status: active
 start_date: 2026-04-24
 sprint: ""

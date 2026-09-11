@@ -1,6 +1,6 @@
 ---
 type: decision
-tags: [decision, fabric, sas-migration]
+tags: [decision, fabric, sas-migration, legacy]
 date: 2026-04-30
 project: "SAS Migration Phase 2"
 status: accepted

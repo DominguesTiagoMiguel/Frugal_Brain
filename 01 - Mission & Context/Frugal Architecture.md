@@ -1,5 +1,5 @@
 ---
-tags: [mission, data-efficiency, architecture]
+tags: [mission, data-efficiency, architecture, legacy]
 status: active
 created: 2026-09-11
 source: "CoE_DAE_Mission_And_DataEfficiencyPillar.pptx"

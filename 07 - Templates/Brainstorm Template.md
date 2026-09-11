@@ -1,9 +1,9 @@
 ---
-tags: [template]
+tags: [template, legacy]
 ---
 ---
 type: brainstorm
-tags: [brainstorm]
+tags: [template, legacy]
 date: <% tp.date.now("YYYY-MM-DD") %>
 project: ""
 status: raw

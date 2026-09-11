@@ -1,6 +1,6 @@
 ---
 type: project
-tags: [project, fabric, bigquery, aurora, active]
+tags: [project, fabric, bigquery, aurora, active, legacy]
 status: active
 start_date: ""
 sprint: ""

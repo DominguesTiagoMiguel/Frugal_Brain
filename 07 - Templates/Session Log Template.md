@@ -1,12 +1,12 @@
 ---
-tags: [template]
+tags: [template, legacy]
 ---
 <%*
 tp.file.move("04 - Knowledge Cache/Sessions/" + tp.file.title)
 -%>
 ---
 type: session
-tags: [session]
+tags: [template, legacy]
 date: <% tp.date.now("YYYY-MM-DD") %>
 project: ""
 sprint: ""

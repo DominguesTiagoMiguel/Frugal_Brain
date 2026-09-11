@@ -1,3 +1,7 @@
+---
+tags: [legacy]
+---
+
 # Workflow — Dev / Test / Prod Knowledge Base
 
 This vault is version-controlled with Git and published to:

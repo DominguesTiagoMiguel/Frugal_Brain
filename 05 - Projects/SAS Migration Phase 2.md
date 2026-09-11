@@ -1,6 +1,6 @@
 ---
 type: project
-tags: [project, fabric, sas-migration, done]
+tags: [project, fabric, sas-migration, done, legacy]
 status: done
 start_date: 2026-03-26
 end_date: 2026-06-05

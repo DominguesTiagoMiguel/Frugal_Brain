@@ -1,3 +1,7 @@
+---
+tags: [legacy]
+---
+
 # 🧠 Frugal Brain — Home
 
 Central index (Map of Content) for this knowledge base.

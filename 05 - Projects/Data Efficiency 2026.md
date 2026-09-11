@@ -1,6 +1,6 @@
 ---
 type: project
-tags: [project, data-efficiency, program, active]
+tags: [project, data-efficiency, program, active, legacy]
 status: active
 start_date: ""
 sprint: ""

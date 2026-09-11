@@ -1,6 +1,6 @@
 ---
 type: decision
-tags: [decision, fabric, direct-lake, cost-optimization]
+tags: [decision, fabric, direct-lake, cost-optimization, legacy]
 date: 2026-04-14
 project: "Interstellar Architecture Review & Cost Optimization"
 status: accepted

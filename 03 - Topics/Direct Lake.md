@@ -1,5 +1,5 @@
 ---
-tags: [topic, fabric, onelake, direct-lake]
+tags: [topic, fabric, onelake, direct-lake, legacy]
 status: active
 created: 2026-09-11
 source: "Knowledge_Base_Fabric_Data_Architecture_Agent.md"

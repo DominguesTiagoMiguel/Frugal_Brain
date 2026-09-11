@@ -1,5 +1,5 @@
 ---
-tags: [topic, finops, data-efficiency]
+tags: [topic, finops, data-efficiency, legacy]
 status: active
 created: 2026-09-11
 source: "Knowledge_Base_Fabric_Data_Architecture_Agent.md"

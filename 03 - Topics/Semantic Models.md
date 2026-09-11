@@ -1,5 +1,5 @@
 ---
-tags: [topic, fabric, power-bi, semantic-models]
+tags: [topic, fabric, power-bi, semantic-models, legacy]
 status: active
 created: 2026-09-11
 source: "Knowledge_Base_Fabric_Data_Architecture_Agent.md"
