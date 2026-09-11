@@ -24,6 +24,6 @@ Stable, curated domain knowledge (as opposed to the fast-moving [[Cache Index|Kn
 - [[Data Engineering Standards]]
 
 ## Related
-- [[01 - Mission & Context]]
+- `01 - Mission & Context/` (CoE mission, pillars, user profile)
 - [[Agents Index]]
 - [[Cache Index]]

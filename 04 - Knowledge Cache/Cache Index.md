@@ -6,7 +6,7 @@ created: 2026-09-11
 
 # Knowledge Cache — Index
 
-This is the living cache of everything captured from interactions with the user: meetings, brainstorms, discussions, and ad-hoc context. It is how the agents ([[Atlas]], [[Curator]], [[Treasurer]], [[Maestro]]) build memory over time, distinct from the curated, stable knowledge in [[03 - Topics]].
+This is the living cache of everything captured from interactions with the user: meetings, brainstorms, discussions, and ad-hoc context. It is how the agents ([[Atlas]], [[Curator]], [[Treasurer]], [[Maestro]]) build memory over time, distinct from the curated, stable knowledge in `03 - Topics/`.
 
 **Folders:**
 - `Sessions/` — one note per working session/interaction (use [[Session Log Template]]).
@@ -56,6 +56,6 @@ SORT date DESC
 ```
 
 ## Related
-- [[03 - Topics]] (stable, curated knowledge — promote cache items here once mature)
-- [[05 - Projects]]
+- [[Topics Index]] (stable, curated knowledge — promote cache items here once mature)
+- [[Projects Index]]
 - [[Agents Index]]

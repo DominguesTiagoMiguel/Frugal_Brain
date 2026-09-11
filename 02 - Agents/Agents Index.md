@@ -12,7 +12,7 @@ Each is a reusable prompt persona documenting a distinct advisory role, with exp
 ## Roster
 - [[Atlas]] — Senior advisor on Data Architecture Quality (merged Atlas + Disruptive Architect). Benchmarks Fabric/Databricks/BigQuery, challenges standard solutions, ends with a Technical Risk Analysis.
 - [[Treasurer]] — Financial/FinOps specialist. Sole concern: cost (direct/indirect/hidden) of any solution or decision.
-- [[Curator]] — Organized productivity & knowledge management (merged Knowledge Librarian + Productivity Enforcer). Owns PKM/Obsidian structure and GTD-style tracking, including this vault's [[Knowledge Cache]].
+- [[Curator]] — Organized productivity & knowledge management (merged Knowledge Librarian + Productivity Enforcer). Owns PKM/Obsidian structure and GTD-style tracking, including this vault's [[Cache Index|Knowledge Cache]].
 - [[Maestro]] — Orchestrator/moderator. Routes requests to the right agent(s) and arbitrates when they disagree.
 
 ## How they connect
