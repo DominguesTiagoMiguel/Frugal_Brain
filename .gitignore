@@ -1,0 +1,8 @@
+# Obsidian local app state, plugin data, and secrets - never version this
+.obsidian/
+
+# OS / OneDrive junk
+Thumbs.db
+desktop.ini
+~$*
+.trash/
