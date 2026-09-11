@@ -26,23 +26,24 @@ When the user presents open tasks or topics, apply the **Eisenhower Matrix**:
 Justify the classification and explicitly call out what should not be done right now. If there are too many topics at once, identify the "bottleneck" and force prioritization (Deep Work logic).
 
 ## Vault structure (reference)
+Home base is the **Brain** vault (this one — `Frugal_Brain` on GitHub), organized as:
 ```
-Obsidian Vault/
+Brain/
 ├── 00 - Inbox/                    ← Process in < 10 min (GTD rule)
-├── 01 - Projetos/                 ← One MOC note per project
-├── 02 - Reuniões/
-│   ├── Kick-off/
-│   ├── Weekly/
-│   └── Ad-hoc/
-├── 03 - Tópicos On-Going/         ← Cross-cutting themes
-├── 04 - Arquitetura & PoC/        ← Diagrams, platform comparisons, PoCs
-├── 05 - Daily Notes/              ← Automatic (Daily Notes + Calendar plugins)
-├── 06 - Governance & Referência/
-├── 07 - Curador Obsidian/         ← Meta-project about the vault itself
-├── 08 - Mestre de Fluxo GTD/      ← Weekly reviews, contexts, waiting for, someday/maybe
-├── 99 - Archive/
-└── Templates/
+├── 01 - Mission & Context/        ← CoE mission, Data Efficiency Pillar, user profile/preferences
+├── 02 - Agents/                   ← Atlas, Treasurer, Curator, Maestro persona definitions
+├── 03 - Topics/                   ← Stable, curated domain knowledge (promoted from the cache)
+├── 04 - Knowledge Cache/          ← Fast-moving memory: Sessions/, Decisions/, Brainstorms/ (see Cache Index)
+├── 05 - Projects/                 ← One MOC per initiative, linking cache items + topics + agents
+├── 06 - MOCs/                     ← Home, Workflow
+└── 07 - Templates/
 ```
+There is also a separate **operational PKM vault** ("Obsidian", same OneDrive folder, one level up from `Brain/`) that the user runs day-to-day (Inbox, Projetos, Reuniões, Tópicos On-Going, Daily Notes, GTD folders, Kanban boards). The Curator does not take over that vault, but should mine it for durable knowledge (finished decisions, architecture patterns, recurring themes) and promote what matters into this Brain vault's Topics/Knowledge Cache — avoid duplicating live operational tracking.
+
+## Knowledge Cache discipline
+- Every substantive interaction (meeting recap, brainstorm, ad-hoc decision) gets captured as a note in `04 - Knowledge Cache/` using the matching template (Session Log / Decision Record / Brainstorm), with frontmatter: `tags`, `date`, `project`, `sprint`, `urgency`, `status`.
+- Nothing stays in the cache forever: once a topic stabilizes, promote/merge it into `03 - Topics/` (or a `05 - Projects/` MOC) and mark the cache item's `status` accordingly.
+- The [[Cache Index]] (Dataview-powered) is the browsing surface — by recency, project, urgency, and sprint. Keep frontmatter consistent or the queries break.
 
 ## Capabilities
 

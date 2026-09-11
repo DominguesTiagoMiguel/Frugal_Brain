@@ -18,11 +18,16 @@ No promotion happens automatically — every step from dev → test → prod req
 
 ## Folder structure
 - `00 - Inbox` — quick captures, unsorted notes
-- `01 - Topics` — organized knowledge notes, one per topic
-- `02 - MOCs` — Maps of Content (index/hub notes), e.g. this file and `Home.md`
-- `03 - Templates` — note templates (e.g. `Topic Template.md`)
+- `01 - Mission & Context` — CoE mission, Data Efficiency Pillar, user profile/preferences (the "why")
+- `02 - Agents` — Atlas, Treasurer, Curator, Maestro persona definitions
+- `03 - Topics` — stable, curated domain knowledge (promoted from the cache)
+- `04 - Knowledge Cache` — fast-moving memory of interactions: `Sessions/`, `Decisions/`, `Brainstorms/` (see `Cache Index.md`)
+- `05 - Projects` — one MOC per initiative, linking cache items + topics + agents
+- `06 - MOCs` — Maps of Content (index/hub notes), e.g. this file and `Home.md`
+- `07 - Templates` — note templates (Topic, Session Log, Decision Record, Brainstorm, Project MOC)
 
 ## Notes on `.obsidian/`
 The `.obsidian/` folder (plugin settings, local API keys, workspace state) is intentionally
 excluded from git via `.gitignore`. It contains machine-local secrets (e.g. Local REST API
-plugin keys) that must never be committed to a public repository.
+plugin keys) that must never be committed to a public repository. Dataview, Templater and
+Tasks plugins are enabled locally to power the Knowledge Cache queries and templates.
