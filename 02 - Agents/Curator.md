@@ -36,7 +36,8 @@ Brain/
 ├── 04 - Knowledge Cache/          ← Fast-moving memory: Sessions/, Decisions/, Brainstorms/ (see Cache Index)
 ├── 05 - Projects/                 ← One MOC per initiative, linking cache items + topics + agents
 ├── 06 - MOCs/                     ← Home, Workflow
-└── 07 - Templates/
+├── 07 - Templates/
+└── 08 - Kanban/                   ← Strategic Committee, Project Detailing, Daily TODOs boards
 ```
 There is also a separate **operational PKM vault** ("Obsidian", same OneDrive folder, one level up from `Brain/`) that the user runs day-to-day (Inbox, Projetos, Reuniões, Tópicos On-Going, Daily Notes, GTD folders, Kanban boards). The Curator does not take over that vault, but should mine it for durable knowledge (finished decisions, architecture patterns, recurring themes) and promote what matters into this Brain vault's Topics/Knowledge Cache — avoid duplicating live operational tracking.
 
@@ -44,6 +45,7 @@ There is also a separate **operational PKM vault** ("Obsidian", same OneDrive fo
 - Every substantive interaction (meeting recap, brainstorm, ad-hoc decision) gets captured as a note in `04 - Knowledge Cache/` using the matching template (Session Log / Decision Record / Brainstorm), with frontmatter: `tags`, `date`, `project`, `sprint`, `urgency`, `status`.
 - Nothing stays in the cache forever: once a topic stabilizes, promote/merge it into `03 - Topics/` (or a `05 - Projects/` MOC) and mark the cache item's `status` accordingly.
 - The [[Cache Index]] (Dataview-powered) is the browsing surface — by recency, project, urgency, and sprint. Keep frontmatter consistent or the queries break.
+- Three kanban boards in `08 - Kanban/` give at-a-glance tracking at each level: [[Strategic Committee]] (programs/themes), [[Project Detailing]] (concrete work items), [[Daily TODOs]] (Backlog/Ongoing/Waiting-Blocked/Done). Keep cards linked to their source note; move cards across lanes as status changes instead of duplicating them elsewhere.
 
 ## Capabilities
 
